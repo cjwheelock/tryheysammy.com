@@ -1,25 +1,23 @@
-# Hey Sammy Website
+# Hey Sammy Landing Page
 
-Single-page marketing site for [tryheysammy.com](https://tryheysammy.com), built as a dependency-free static site for GitHub Pages.
+Standalone static marketing site for Hey Sammy. This is intentionally separate from the mobile app repository.
 
-## Local Preview
+## View locally
 
-Open `index.html` in a browser, or run a tiny static server:
-
-```sh
-python3 -m http.server 8080
+```bash
+cd /Users/cjwheelock/hey-sammy-landing
+python3 -m http.server 4174
 ```
 
-Then visit `http://localhost:8080`.
+Then open:
 
-## GitHub Pages
+```text
+http://localhost:4174
+```
 
-1. Create a new GitHub repository for this site.
-2. Push this project to the repository.
-3. In GitHub, open `Settings` -> `Pages`.
-4. Set the source to the default branch and root folder.
-5. Keep the included `CNAME` file so GitHub Pages uses `tryheysammy.com`.
+## Files
 
-## Domain DNS
-
-Point `tryheysammy.com` to GitHub Pages with the DNS records GitHub recommends for apex domains. Add a `www` CNAME if you also want `www.tryheysammy.com` to work.
+- `index.html` - page structure and copy
+- `styles.css` - responsive landing page design
+- `script.js` - lightweight reveal animations
+- `assets/` - local Sammy images, generated lifestyle image, App Store badge SVG
