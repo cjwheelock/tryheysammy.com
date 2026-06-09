@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Hey Sammy Admin</title>
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="preload" as="image" href="../assets/sammy-head.png" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Acme&family=Plus+Jakarta+Sans:wght@400;650;760&display=swap");
+
+      :root {
+        --paper: #fff6e8;
+        --ink: #251815;
+        --muted: #705c55;
+        --line: rgba(37, 24, 21, 0.14);
+        --cyan: #28d7cc;
+        --coral: #ff5a84;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        min-height: 100dvh;
+        margin: 0;
+        display: grid;
+        place-items: center;
+        padding: 24px;
+        background:
+          radial-gradient(circle at 12% 10%, rgba(255, 90, 132, 0.2), transparent 28rem),
+          radial-gradient(circle at 90% 12%, rgba(40, 215, 204, 0.22), transparent 30rem),
+          linear-gradient(180deg, #fff8eb 0%, var(--paper) 100%);
+        color: var(--ink);
+        font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+      }
+
+      main {
+        width: min(430px, 100%);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: rgba(255, 255, 255, 0.76);
+        box-shadow: 0 22px 80px rgba(92, 48, 27, 0.14);
+        padding: 22px;
+      }
+
+      img {
+        width: 58px;
+        height: 58px;
+        border-radius: 50%;
+        background: white;
+        padding: 5px;
+      }
+
+      h1 {
+        margin: 16px 0 8px;
+        font-family: "Acme", system-ui, sans-serif;
+        font-size: 42px;
+        line-height: 1;
+        letter-spacing: 0;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        line-height: 1.45;
+      }
+
+      form {
+        display: grid;
+        gap: 12px;
+        margin-top: 18px;
+      }
+
+      label {
+        display: grid;
+        gap: 7px;
+        color: var(--muted);
+        font-size: 13px;
+        font-weight: 760;
+      }
+
+      input {
+        width: 100%;
+        min-height: 46px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 10px 12px;
+        background: rgba(255, 255, 255, 0.9);
+        color: var(--ink);
+        font: inherit;
+      }
+
+      button {
+        min-height: 46px;
+        border: 1px solid var(--ink);
+        border-radius: 14px;
+        background: var(--ink);
+        color: white;
+        font: inherit;
+        font-weight: 760;
+        cursor: pointer;
+      }
+
+      .note {
+        margin-top: 12px;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <img src="../assets/sammy-head.png" alt="" />
+      <h1>Admin</h1>
+      <p>Enter the private preview password to continue to the Hey Sammy activity-agent dashboard.</p>
+
+      <form id="admin-login" method="post" action="https://app.tryheysammy.com/api/access/login">
+        <input type="hidden" name="next" value="/admin" />
+        <label>
+          Password
+          <input name="password" type="password" autocomplete="current-password" autofocus required />
+        </label>
+        <button type="submit">Continue to app admin</button>
+      </form>
+
+      <p class="note">You will be redirected to app.tryheysammy.com after login.</p>
+    </main>
+
+    <script>
+      const form = document.getElementById("admin-login");
+      const isLocal = ["localhost", "127.0.0.1", ""].includes(window.location.hostname);
+      form.action = isLocal
+        ? "http://localhost:3000/api/access/login"
+        : "https://app.tryheysammy.com/api/access/login";
+    </script>
+  </body>
+</html>
