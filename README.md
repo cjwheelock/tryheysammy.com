@@ -21,3 +21,30 @@ http://localhost:4174
 - `styles.css` - responsive landing page design
 - `script.js` - lightweight reveal animations
 - `assets/` - local Sammy images, generated lifestyle image, App Store badge SVG
+- `admin/index.html` - static bridge login for `/admin`
+- `blog/` - published static blog pages
+
+## Source and deployment
+
+The editable source folder on CJ's machine is:
+
+```text
+/Users/cjwheelock/hey-sammy-landing
+```
+
+The source folder contains a helper script that syncs the landing page, admin
+bridge, assets, and published blog pages into this GitHub Pages repo:
+
+```bash
+cd /Users/cjwheelock/hey-sammy-landing
+./scripts/deploy-to-tryheysammy-repo.sh
+```
+
+Publish from the source folder:
+
+```bash
+cd /Users/cjwheelock/hey-sammy-landing
+./scripts/deploy-to-tryheysammy-repo.sh --push "Update landing page"
+```
+
+Draft markdown files under `blog/drafts/` are intentionally excluded from deploy.
