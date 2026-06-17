@@ -1,0 +1,32 @@
+# Hey Sammy
+
+> Hey Sammy is an iOS app that helps people find real-world local activities, understand how to show up, and build friendships through repeated participation.
+
+Hey Sammy is for people who want to spend less time passively scrolling and more time doing things in real life. It focuses on recurring, participatory activities where a solo newcomer can become a regular over time: run clubs, dance socials, pickleball, pottery, language exchange, volunteering, hiking groups, board game nights, fitness classes, and similar local communities.
+
+The core product promise is practical: Hey Sammy helps someone move from "I should get out more" to "I know where to go, when to go, what to expect, and what to do next."
+
+## Primary Pages
+
+- [Homepage](https://tryheysammy.com/index.html.md): Overview of the Hey Sammy app, product promise, App Store link, and social links.
+- [Blog](https://tryheysammy.com/blog/index.html.md): Essays from Hey Sammy about friendship, third spaces, courage, recurring activities, and getting back into the real world.
+- [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md): Founder note on trying things, showing up, and why Hey Sammy is built around recurring activities.
+- [Why Familiar Faces Become Friends](https://tryheysammy.com/blog/why-familiar-faces-become-friends/index.html.md): Essay on why repeated exposure and familiar faces make friendship easier.
+
+## App And Social Links
+
+- [Download Hey Sammy on the App Store](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631)
+- [Hey Sammy on Instagram](https://www.instagram.com/heysammyapp/)
+- [Hey Sammy on TikTok](https://www.tiktok.com/@heysammyapp)
+
+## Entity Notes
+
+- Brand name: Hey Sammy
+- Company/copyright holder shown on the site: OMG Goals
+- Site URL: https://tryheysammy.com/
+- App category: lifestyle, local activities, social connection, real-world participation
+- Current app focus: helping people find local plans and recurring activities that are worth leaving the house for
+
+## Optional
+
+- [Product context](https://tryheysammy.com/): Human-facing homepage with visuals and App Store CTA.
