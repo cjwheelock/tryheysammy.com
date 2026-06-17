@@ -1,6 +1,6 @@
 # Why Familiar Faces Become Friends
 
-Friendship - June 9, 2026
+Friendship - June 17, 2026
 
 Friendship gets dramatically easier the moment someone stops feeling like a stranger.
 
