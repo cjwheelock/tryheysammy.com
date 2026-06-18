@@ -10,6 +10,7 @@ The core product promise is practical: Hey Sammy helps someone move from "I shou
 
 - [Homepage](https://tryheysammy.com/index.html.md): Overview of the Hey Sammy app, product promise, App Store link, and social links.
 - [Blog](https://tryheysammy.com/blog/index.html.md): Essays from Hey Sammy about friendship, third spaces, courage, recurring activities, and getting back into the real world.
+- [The Life You Build by Showing Up](https://tryheysammy.com/blog/the-life-you-build-by-showing-up/index.html.md): Essay on how confidence follows action and a fuller life gets built by showing up.
 - [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md): Founder note on trying things, showing up, and why Hey Sammy is built around recurring activities.
 - [Why Familiar Faces Become Friends](https://tryheysammy.com/blog/why-familiar-faces-become-friends/index.html.md): Essay on why repeated exposure and familiar faces make friendship easier.
 
