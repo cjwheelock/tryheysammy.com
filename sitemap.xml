@@ -2,15 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tryheysammy.com/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/</loc>
-    <lastmod>2026-06-20</lastmod>
+    <lastmod>2026-06-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tryheysammy.com/blog/being-bad-at-something-is-good-for-you/</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/third-spaces-are-where-life-gets-bigger/</loc>
