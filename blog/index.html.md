@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [Remote Work Needs Real-World Rituals](https://tryheysammy.com/blog/remote-work-needs-real-world-rituals/index.html.md) - Essay on why remote workers need recurring real-world rituals that pull life back out of the house.
 - [The Best Activities for Making Friends Have Two Things in Common](https://tryheysammy.com/blog/the-best-activities-for-making-friends/index.html.md) - Essay on why participation and conversation make some recurring activities better for friendship.
 - [Being Bad at Something Is Good for You](https://tryheysammy.com/blog/being-bad-at-something-is-good-for-you/index.html.md) - Essay on why beginner courage and awkward first attempts make real-world connection easier.
 - [Why Men Need Things to Do Together](https://tryheysammy.com/blog/why-men-need-things-to-do-together/index.html.md) - Essay on why shared activities and recurring plans make friendship easier for men.
