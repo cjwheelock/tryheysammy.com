@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [Stop Waiting for an Epiphany](https://tryheysammy.com/blog/stop-waiting-for-an-epiphany/index.html.md) - Essay on why clarity comes from trying real things instead of waiting for a perfect life plan.
 - [The First-Timer Script](https://tryheysammy.com/blog/the-first-timer-script/index.html.md) - Essay with a practical script for walking into a new activity alone and starting one small interaction.
 - [Remote Work Needs Real-World Rituals](https://tryheysammy.com/blog/remote-work-needs-real-world-rituals/index.html.md) - Essay on why remote workers need recurring real-world rituals that pull life back out of the house.
 - [The Best Activities for Making Friends Have Two Things in Common](https://tryheysammy.com/blog/the-best-activities-for-making-friends/index.html.md) - Essay on why participation and conversation make some recurring activities better for friendship.
