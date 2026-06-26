@@ -1,6 +1,6 @@
 # You Don't Get Lucky Sitting at Home
 
-Founder note - June 8, 2026
+Founder note - June 26, 2026
 
 The simple idea behind Hey Sammy: your life only changes once you put yourself in motion.
 
