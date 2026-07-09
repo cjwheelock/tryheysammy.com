@@ -12,6 +12,8 @@ Examples include run clubs, dance classes and socials, pickleball, pottery, volu
 
 Real friendships are usually built by showing up to the same place over time. Hey Sammy is designed to make the first step easier: finding somewhere to go, understanding what to expect, saving a plan, and getting nudged to follow through.
 
+Read more about the mission, research, founder story, and goals: https://tryheysammy.com/about/
+
 ## How It Works
 
 1. Tell Sammy what you want more of, such as friendship, confidence, healthier habits, new skills, happiness, or a better reason to leave the house.

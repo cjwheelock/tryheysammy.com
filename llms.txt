@@ -9,6 +9,7 @@ The core product promise is practical: Hey Sammy helps someone move from "I shou
 ## Primary Pages
 
 - [Homepage](https://tryheysammy.com/index.html.md): Overview of the Hey Sammy app, product promise, App Store link, and social links.
+- [About Hey Sammy](https://tryheysammy.com/about/index.html.md): The mission, research, founder story, friendship mechanism, and long-term goals behind Hey Sammy.
 - [Blog](https://tryheysammy.com/blog/index.html.md): Essays from Hey Sammy about friendship, third spaces, courage, recurring activities, and getting back into the real world.
 - [If the Machines Do the Work, What Are People For?](https://tryheysammy.com/blog/what-are-people-for/index.html.md): Essay on AGI, leisure, meaning, and why participation with real people matters.
 - [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md): Founder note on trying things, showing up, and why Hey Sammy is built around recurring activities.
