@@ -837,6 +837,11 @@ footer {
     top: 12px;
     width: calc(100% - 20px);
     margin-top: 12px;
+    display: grid;
+    grid-template-columns: 50px minmax(0, 1fr) auto;
+    gap: 8px 10px;
+    padding: 10px;
+    border-radius: 28px;
   }
 
   .brand-mark {
@@ -844,9 +849,31 @@ footer {
     height: 50px;
   }
 
+  .nav-links {
+    grid-column: 1 / -1;
+    display: grid;
+    grid-template-columns: 1.25fr repeat(3, minmax(0, 1fr));
+    gap: 4px;
+    width: 100%;
+    padding-top: 8px;
+    border-top: 1px solid rgba(37, 24, 21, 0.1);
+    font-size: 11px;
+  }
+
+  .nav-links a {
+    padding: 10px 4px;
+    text-align: center;
+    white-space: nowrap;
+  }
+
   .nav-cta {
+    grid-column: 3;
     padding-left: 14px;
     font-size: 14px;
+  }
+
+  .hero {
+    padding-top: 28px;
   }
 
   .hero-copy h1 {
