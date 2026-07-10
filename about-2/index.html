@@ -25,76 +25,7 @@
       content="We are trying to reverse a two-decade decline in showing up."
     />
     <meta name="twitter:image" content="https://tryheysammy.com/assets/founder-dancing.jpg" />
-    <link rel="stylesheet" href="../styles.css?v=20260709-about2-revision" />
-    <style>
-      .socializing-line-all {
-        fill: none;
-        stroke: var(--cyan);
-        stroke-width: 7;
-        stroke-linecap: round;
-        stroke-dasharray: 1 16;
-      }
-      .socializing-point-all {
-        fill: var(--cyan);
-        stroke: var(--ink);
-        stroke-width: 4;
-      }
-      .chart-series-label text {
-        font-family: "Plus Jakarta Sans", system-ui, sans-serif;
-        font-size: 15px;
-        font-weight: 760;
-      }
-      .chart-series-label .label-youth {
-        fill: var(--clay);
-      }
-      .chart-series-label .label-all {
-        fill: #0f9e95;
-      }
-      .genz-strip {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 18px;
-        margin-top: clamp(40px, 6vw, 70px);
-      }
-      .genz-strip article {
-        padding: 26px 26px 30px;
-        border: 1px solid rgba(37, 24, 21, 0.1);
-        border-radius: 28px;
-        background: rgba(255, 255, 255, 0.62);
-      }
-      .genz-strip strong {
-        display: block;
-        font-family: "Acme", "Fraunces", Georgia, serif;
-        font-size: clamp(34px, 4vw, 46px);
-        line-height: 1;
-      }
-      .genz-strip em {
-        display: block;
-        margin-top: 6px;
-        color: var(--clay);
-        font-style: normal;
-        font-size: 13px;
-        font-weight: 760;
-        letter-spacing: 0.08em;
-        text-transform: uppercase;
-      }
-      .genz-strip p {
-        margin: 12px 0 0;
-        color: var(--muted);
-        font-size: 15px;
-        line-height: 1.55;
-      }
-      .genz-strip a {
-        color: var(--clay);
-        font-weight: 760;
-        font-size: 12px;
-      }
-      @media (max-width: 760px) {
-        .genz-strip {
-          grid-template-columns: 1fr;
-        }
-      }
-    </style>
+    <link rel="stylesheet" href="../styles.css?v=20260709-about2-communication" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -181,145 +112,35 @@
       <section class="about-problem about-section" id="trends">
         <div class="about-shell">
           <div class="about-section-heading reveal">
-            <h2>The quiet collapse of hanging out.</h2>
+            <h2>We have more ways to communicate—and fewer reasons to be together.</h2>
             <p>
-              This didn't happen overnight, and it didn't happen because people
-              stopped wanting friends. Over twenty years, the places and habits
-              that once made friendship automatic—school, neighborhoods, clubs,
-              third places—gave way to screens, delivery apps, and bigger,
-              more comfortable homes that quietly ask nothing of us.
+              School once gave us repeated contact for free. So did neighborhoods,
+              offices, clubs, and community organizations. Adult life removed many
+              of those built-in collisions, then handed us a screen that asks
+              nothing from us except that we keep scrolling.
             </p>
           </div>
 
-          <figure class="trend-figure reveal" aria-labelledby="socializing-trend-title">
-            <figcaption>
-              <div>
-                <span class="chart-kicker">The trendline we want to bend</span>
-                <h3 id="socializing-trend-title">Daily time spent socializing in person</h3>
-              </div>
-              <p>Minutes per day</p>
-            </figcaption>
-            <svg
-              class="friend-time-chart"
-              viewBox="0 0 760 400"
-              role="img"
-              aria-labelledby="socializing-svg-title socializing-svg-desc"
-            >
-              <title id="socializing-svg-title">Daily socializing fell from 60 to 35 minutes for ages 15 to 24</title>
-              <desc id="socializing-svg-desc">
-                A line chart of American Time Use Survey estimates. Americans ages 15 to 24 went
-                from about 60 minutes of daily socializing in 2003 to 39 minutes in 2019 and 35
-                minutes in 2025. Americans overall fell from about 45 to 35 minutes over the same
-                two decades. Young people used to socialize far more than average; now they have
-                fallen to the average.
-              </desc>
-              <g class="chart-grid" aria-hidden="true">
-                <line x1="92" y1="96" x2="700" y2="96" />
-                <line x1="92" y1="187" x2="700" y2="187" />
-                <line x1="92" y1="279" x2="700" y2="279" />
-                <line x1="92" y1="370" x2="700" y2="370" />
-              </g>
-              <g class="chart-axis" aria-hidden="true">
-                <text x="70" y="102">60</text>
-                <text x="70" y="193">40</text>
-                <text x="70" y="285">20</text>
-                <text x="70" y="376">0</text>
-                <text x="150" y="398">2003</text>
-                <text x="537" y="398">2019</text>
-                <text x="672" y="398">2025</text>
-              </g>
-              <path class="socializing-line-all" d="M181 164 L690 210" />
-              <path class="friend-time-line" d="M130 96 L537 192 L690 210" />
-              <circle class="socializing-point-all" cx="181" cy="164" r="7" />
-              <circle class="friend-time-point" cx="130" cy="96" r="10" />
-              <circle class="friend-time-point" cx="537" cy="192" r="10" />
-              <circle class="friend-time-point" cx="690" cy="210" r="10" />
-              <g class="chart-value" aria-hidden="true">
-                <text x="130" y="66" text-anchor="middle">60 min</text>
-                <text x="181" y="140" text-anchor="middle">45 min</text>
-                <text x="655" y="248" text-anchor="middle">35 min</text>
-              </g>
-              <g class="chart-series-label" aria-hidden="true">
-                <text class="label-youth" x="245" y="106">Ages 15–24</text>
-                <text class="label-all" x="255" y="212">All Americans</text>
-              </g>
-              <g class="chart-annotation" aria-hidden="true">
-                <text x="440" y="278" text-anchor="middle">Young people used to socialize the most.</text>
-                <text x="440" y="300" text-anchor="middle">Now they've fallen to the average.</text>
-              </g>
-            </svg>
-            <div
-              class="friend-time-mobile"
-              role="img"
-              aria-label="Daily in-person socializing for ages 15 to 24 fell from about 60 minutes in 2003 to 35 minutes in 2025, a decline of roughly 40 percent."
-            >
-              <div class="mobile-slope-start">
-                <strong>60</strong>
-                <span>min / day</span>
-                <small>2003</small>
-              </div>
-              <div class="mobile-slope-drop" aria-hidden="true">
-                <i></i>
-                <span>About 40% less</span>
-              </div>
-              <div class="mobile-slope-end">
-                <strong>35</strong>
-                <span>min / day</span>
-                <small>2025</small>
-              </div>
-            </div>
-            <p class="chart-note">
-              Published American Time Use Survey estimates for selected years: ages
-              15–24 (2003 and 2025) and all Americans 15+ (2005–2025); the 2019
-              point covers ages 15–25. Points are not interpolated. <a href="#source-1">Source 01</a>,
-              <a href="#source-2">Source 02</a>
-            </p>
-          </figure>
-
           <div class="evidence-strip reveal delay-1" aria-label="Social connection statistics">
+            <article>
+              <strong>30%</strong>
+              <p>of Americans socialized on an average day in 2025, down from 38% in 2015.</p>
+              <a href="#source-1" aria-label="See source 1">01</a>
+            </article>
+            <article>
+              <strong>44%</strong>
+              <p>of Americans ages 18–29 said loneliness had bothered them recently.</p>
+              <a href="#source-12" aria-label="See source 12">12</a>
+            </article>
+            <article>
+              <strong>32%</strong>
+              <p>of adults under 30 report five or more close friends, versus 49% of adults 65+.</p>
+              <a href="#source-13" aria-label="See source 13">13</a>
+            </article>
             <article>
               <strong>4×</strong>
               <p>more Americans report zero close friends than in 1990—12% today versus 3%.</p>
               <a href="#source-3" aria-label="See source 3">03</a>
-            </article>
-            <article>
-              <strong>-35%</strong>
-              <p>change in face-to-face socializing for people under 25 between 2003 and 2023.</p>
-              <a href="#source-2" aria-label="See source 2">02</a>
-            </article>
-            <article>
-              <strong>-70%</strong>
-              <p>change in time spent attending or hosting parties for ages 15–24 since 2003.</p>
-              <a href="#source-4" aria-label="See source 4">04</a>
-            </article>
-          </div>
-
-          <div class="genz-strip reveal" aria-label="How a generation's habits changed">
-            <article>
-              <strong>87% → 58%</strong>
-              <em>Dating</em>
-              <p>
-                Share of 12th graders who had ever been on a date, 1980s versus
-                the mid-2010s. <a href="#source-5" aria-label="See source 5">05</a>
-              </p>
-            </article>
-            <article>
-              <strong>82% → 63%</strong>
-              <em>Driver's licenses</em>
-              <p>
-                Share of high school seniors with a license, 2005 versus 2023.
-                Fewer keys, fewer spontaneous plans.
-                <a href="#source-5" aria-label="See source 5">05</a>
-              </p>
-            </article>
-            <article>
-              <strong>4.8 hrs</strong>
-              <em>Daily social media</em>
-              <p>
-                Average time American teens spend on social apps every day—about
-                eight times what they spend socializing in person.
-                <a href="#source-6" aria-label="See source 6">06</a>
-              </p>
             </article>
           </div>
         </div>
@@ -617,6 +438,20 @@
               Jeffrey A. Hall,
               <a href="https://journals.sagepub.com/doi/10.1177/0265407518761225" target="_blank" rel="noopener noreferrer">How many hours does it take to make a friend?</a>,
               Journal of Social and Personal Relationships, 2019. Hours are rough thresholds, not guarantees.
+            </p>
+          </li>
+          <li id="source-12">
+            <span>12</span>
+            <p>
+              Harvard Kennedy School Institute of Politics,
+              <a href="https://iop.harvard.edu/youth-poll/45th-edition-spring-2023" target="_blank" rel="noopener noreferrer">Harvard Youth Poll, Spring 2023</a>.
+            </p>
+          </li>
+          <li id="source-13">
+            <span>13</span>
+            <p>
+              Pew Research Center,
+              <a href="https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/" target="_blank" rel="noopener noreferrer">What does friendship look like in America?</a>, 2023.
             </p>
           </li>
         </ol>

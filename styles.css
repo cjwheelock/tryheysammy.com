@@ -1064,6 +1064,10 @@ footer {
   box-shadow: 0 34px 100px rgba(37, 24, 21, 0.2);
 }
 
+.about-2-page .about-problem .evidence-strip {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .evidence-strip article {
   position: relative;
   min-height: 265px;
@@ -1705,6 +1709,10 @@ footer {
     min-height: auto;
     aspect-ratio: 4 / 3;
   }
+
+  .about-2-page .about-problem .evidence-strip {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
 }
 
 @media (max-width: 900px) {
@@ -1716,6 +1724,10 @@ footer {
   .friendship-path,
   .mission-steps,
   .sources-list {
+    grid-template-columns: 1fr;
+  }
+
+  .about-2-page .about-problem .evidence-strip {
     grid-template-columns: 1fr;
   }
 
