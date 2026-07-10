@@ -849,6 +849,15 @@ footer {
     font-size: 14px;
   }
 
+  .hero-copy h1 {
+    font-size: clamp(24px, 8.1vw, 42px);
+  }
+
+  .hero-headline-line {
+    display: block;
+    white-space: nowrap;
+  }
+
   .hero-actions {
     align-items: flex-start;
     flex-direction: column;
