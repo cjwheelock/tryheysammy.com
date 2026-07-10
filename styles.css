@@ -758,6 +758,26 @@ footer {
   transition-delay: 220ms;
 }
 
+@media (min-width: 901px) and (max-width: 1120px) {
+  .site-nav {
+    gap: 12px;
+  }
+
+  .nav-links {
+    gap: 8px;
+    font-size: 15px;
+  }
+
+  .nav-links a {
+    padding: 14px 16px;
+    white-space: nowrap;
+  }
+
+  .header-social {
+    display: none;
+  }
+}
+
 @media (max-width: 900px) {
   .hero,
   .problem-grid,
