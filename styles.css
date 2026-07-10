@@ -1678,6 +1678,82 @@ footer {
   color: var(--clay);
 }
 
+.about-2-page .about-hero-copy h1 {
+  font-size: clamp(50px, 6vw, 86px);
+  line-height: 0.96;
+}
+
+.about-2-page .about-deck {
+  font-size: clamp(20px, 1.7vw, 24px);
+  line-height: 1.55;
+}
+
+.about-2-page .about-section-heading h2,
+.about-2-page .health-copy h2,
+.about-2-page .third-space-copy h2,
+.about-2-page .founder-story h2,
+.about-2-page .goals-heading h2,
+.about-2-page .about-cta h2 {
+  font-size: clamp(42px, 4.5vw, 64px);
+  line-height: 1;
+}
+
+.about-2-page .about-section-heading > p,
+.about-2-page .health-copy > p,
+.about-2-page .third-space-copy > p,
+.about-2-page .founder-story > p,
+.about-2-page .places-copy > p,
+.about-2-page .about-cta > p {
+  font-size: clamp(18px, 1.55vw, 22px);
+  line-height: 1.62;
+}
+
+.about-2-page .trend-figure h3,
+.about-2-page .places-copy h3 {
+  font-size: clamp(32px, 3.4vw, 48px);
+  line-height: 1.04;
+}
+
+.about-2-page .evidence-strip p,
+.about-2-page .health-facts article p,
+.about-2-page .third-space-checklist li,
+.about-2-page .goals-list li,
+.about-2-page .friendship-path p {
+  font-size: 18px;
+  line-height: 1.55;
+}
+
+.about-2-page .friendship-path strong {
+  font-size: clamp(26px, 2.3vw, 34px);
+}
+
+.about-2-page .bar-row > span {
+  font-size: 16px;
+}
+
+.about-2-page .chart-note,
+.about-2-page .health-source,
+.about-2-page .sources-heading > p,
+.about-2-page .sources-list p {
+  font-size: 15px;
+  line-height: 1.6;
+}
+
+@media (max-width: 560px) {
+  .about-2-page .about-hero-copy h1 {
+    font-size: clamp(46px, 12vw, 54px);
+  }
+
+  .about-2-page .about-section-heading h2,
+  .about-2-page .health-copy h2,
+  .about-2-page .third-space-copy h2,
+  .about-2-page .founder-story h2,
+  .about-2-page .goals-heading h2,
+  .about-2-page .about-cta h2 {
+    font-size: clamp(40px, 11vw, 50px);
+  }
+}
+
 .sources-section {
   padding-bottom: clamp(90px, 12vw, 150px);
 }
