@@ -999,6 +999,16 @@ footer {
   line-height: 0.92;
 }
 
+.about-2-page .about-hero-note p {
+  font-size: clamp(36px, 2.8vw, 44px);
+  line-height: 1;
+  text-wrap: balance;
+}
+
+.about-2-page .about-hero-note {
+  padding: clamp(32px, 3vw, 42px);
+}
+
 .about-hero-note small {
   display: block;
   margin-top: 26px;
@@ -1214,6 +1224,12 @@ footer {
   color: rgba(255, 255, 255, 0.68);
 }
 
+.about-2-page .health-copy h2 {
+  font-size: clamp(48px, 5vw, 76px);
+  line-height: 0.98;
+  text-wrap: balance;
+}
+
 .health-facts {
   display: grid;
   gap: 0;
@@ -1234,6 +1250,16 @@ footer {
   font-family: "Acme", "Fraunces", Georgia, serif;
   font-size: clamp(58px, 6vw, 82px);
   line-height: 0.9;
+}
+
+.about-2-page .health-facts article {
+  grid-template-columns: 172px minmax(0, 1fr);
+  gap: 30px;
+}
+
+.about-2-page .health-facts span {
+  font-size: clamp(54px, 5vw, 74px);
+  white-space: nowrap;
 }
 
 .health-facts article p {
@@ -1322,6 +1348,11 @@ footer {
   color: var(--muted);
   font-size: 17px;
   line-height: 1.6;
+}
+
+.about-2-page .places-copy p {
+  font-size: clamp(19px, 2vw, 26px);
+  line-height: 1.5;
 }
 
 .places-chart {
@@ -1562,6 +1593,34 @@ footer {
 
 .about-cta .app-store-link {
   margin-inline: auto;
+}
+
+.about-2-page .about-section-heading h2,
+.about-2-page .health-copy h2,
+.about-2-page .third-space-copy h2,
+.about-2-page .founder-story h2,
+.about-2-page .goals-heading h2,
+.about-2-page .about-cta h2,
+.about-2-page .sources-heading h2 {
+  margin-top: 0;
+}
+
+.about-2-page .about-cta {
+  text-align: left;
+}
+
+.about-2-page .about-cta h2,
+.about-2-page .about-cta > p {
+  margin-inline: 0;
+}
+
+.about-2-page .about-cta > p {
+  max-width: 900px;
+}
+
+.about-2-page .goals-heading h2 {
+  font-size: clamp(48px, 5.3vw, 78px);
+  line-height: 0.98;
 }
 
 .sources-section {
@@ -1821,6 +1880,11 @@ footer {
 
   .health-facts article {
     grid-template-columns: 1fr;
+  }
+
+  .about-2-page .health-facts article {
+    grid-template-columns: 1fr;
+    gap: 14px;
   }
 
   .bar-row {
