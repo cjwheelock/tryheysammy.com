@@ -903,6 +903,14 @@ footer {
     linear-gradient(180deg, #fff8eb 0%, var(--paper) 52%, #fff0dd 100%);
 }
 
+.about-2-page {
+  background:
+    radial-gradient(circle at 13% 8%, rgba(255, 90, 132, 0.24), transparent 32rem),
+    radial-gradient(circle at 92% 12%, rgba(40, 215, 204, 0.22), transparent 30rem),
+    linear-gradient(180deg, #fff8eb 0%, var(--paper) 48%, #fff0dd 100%);
+  background-attachment: fixed;
+}
+
 .about-shell {
   width: min(1180px, calc(100% - 48px));
   margin-inline: auto;
@@ -1625,6 +1633,49 @@ footer {
 .about-2-page .goals-heading h2 {
   font-size: clamp(48px, 5.3vw, 78px);
   line-height: 0.98;
+}
+
+.about-2-page .about-problem,
+.about-2-page .health-section,
+.about-2-page .third-space-section,
+.about-2-page .founder-section,
+.about-2-page .goals-section {
+  background: transparent;
+  color: var(--ink);
+}
+
+.about-2-page .about-deck,
+.about-2-page .about-section-heading > p,
+.about-2-page .health-copy > p,
+.about-2-page .third-space-copy > p,
+.about-2-page .founder-story > p,
+.about-2-page .places-copy > p,
+.about-2-page .about-cta > p {
+  color: var(--ink);
+}
+
+.about-2-page .health-facts,
+.about-2-page .goals-list {
+  border-top-color: rgba(37, 24, 21, 0.16);
+}
+
+.about-2-page .health-facts article,
+.about-2-page .goals-list li {
+  border-bottom-color: rgba(37, 24, 21, 0.16);
+}
+
+.about-2-page .health-facts article p,
+.about-2-page .goals-list li {
+  color: var(--ink);
+}
+
+.about-2-page .health-source {
+  color: var(--muted);
+}
+
+.about-2-page .health-source a,
+.about-2-page .goals-list li::before {
+  color: var(--clay);
 }
 
 .sources-section {
