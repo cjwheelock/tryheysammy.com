@@ -24,6 +24,8 @@ Or language exchange: the entire point is to practice, make mistakes, and talk.
 
 ## Look For Social Design
 
+Once you choose a promising room, use the [six-step plan for making friends as an adult](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/) to turn repeat attendance into conversations, invitations, and follow-up.
+
 Before you commit, ask: will I see the same people if I come back? Is there a reason to talk? Can a solo newcomer realistically join? Are experienced people welcoming to beginners? Is there time before or after to linger?
 
 If the answers are yes, you have found something valuable. Do not just look for entertainment. Look for rooms where participation makes conversation natural. That is where friendship has a chance.

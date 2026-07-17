@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [How to Make Friends as an Adult: A Repeatable 6-Step Plan](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/index.html.md) - A practical plan for meeting people through recurring activities, small conversations, invitations, and follow-up.
 - [If the Machines Do the Work, What Are People For?](https://tryheysammy.com/blog/what-are-people-for/index.html.md) - Essay on AGI, leisure, meaning, and why participation with real people matters.
 - [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md) - Founder note on trying things, showing up, and why action creates opportunity.
 - [Stop Waiting for an Epiphany](https://tryheysammy.com/blog/stop-waiting-for-an-epiphany/index.html.md) - Essay on why clarity comes from trying real things instead of waiting for a perfect life plan.

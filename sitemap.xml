@@ -14,8 +14,14 @@
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
