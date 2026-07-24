@@ -104,3 +104,5 @@ The U.S. Surgeon General describes social connection as important to individual 
 [Find a recurring activity with Hey Sammy](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631), add it to your calendar, and give familiar faces time to become real friends.
 
 Related reading: [why familiar faces make conversation easier](https://tryheysammy.com/blog/why-familiar-faces-become-friends/) and [how confidence grows through showing up](https://tryheysammy.com/blog/the-life-you-build-by-showing-up/).
+
+Just moved? Follow the [first 30 days plan for making friends in a new city](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/).

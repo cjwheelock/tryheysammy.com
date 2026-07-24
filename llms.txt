@@ -11,6 +11,7 @@ The core product promise is practical: Hey Sammy helps someone move from "I shou
 - [Homepage](https://tryheysammy.com/index.html.md): Overview of the Hey Sammy app, product promise, App Store link, and social links.
 - [About Hey Sammy](https://tryheysammy.com/about/index.html.md): The mission, research, founder story, friendship mechanism, and long-term goals behind Hey Sammy.
 - [Blog](https://tryheysammy.com/blog/index.html.md): Essays from Hey Sammy about friendship, third spaces, courage, recurring activities, and getting back into the real world.
+- [How to Make Friends in a New City: Your First 30 Days](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/index.html.md): A practical first-month plan for finding recurring groups, meeting people, following up, and becoming a regular after a move.
 - [How to Make Friends as an Adult: A Repeatable 6-Step Plan](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/index.html.md): A practical guide to meeting people through recurring activities, small conversations, invitations, and consistent follow-up.
 - [If the Machines Do the Work, What Are People For?](https://tryheysammy.com/blog/what-are-people-for/index.html.md): Essay on AGI, leisure, meaning, and why participation with real people matters.
 - [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md): Founder note on trying things, showing up, and why Hey Sammy is built around recurring activities.
