@@ -1,6 +1,10 @@
 # Hey Sammy
 
-Hey Sammy helps people stop scrolling and start finding real-world local activities where they can become regulars, meet familiar faces, and build a fuller life offline.
+## Stop scrolling.
+
+## Start finding your people.
+
+Real friendships aren't built in one night - they're built by showing up to the same place, week after week. Sammy finds the recurring spots nearby where your kind of people already gather, then nudges you to keep coming back until familiar faces become your crew.
 
 ## What Hey Sammy Does
 
@@ -10,15 +14,21 @@ Examples include run clubs, dance classes and socials, pickleball, pottery, volu
 
 ## Why It Exists
 
-Real friendships are usually built by showing up to the same place over time. Hey Sammy is designed to make the first step easier: finding somewhere to go, understanding what to expect, saving a plan, and getting nudged to follow through.
+School gave us the same people in the same place every week. Adult life does not. Shared activities rebuild that rhythm: repeated contact creates familiar faces, and familiar faces give friendship room to grow.
 
 Read more about the mission, research, founder story, and goals: https://tryheysammy.com/about/
 
+## Why Frequency Matters
+
+- 18% of U.S. adults say they have no close friends outside their family. Source: https://www.pewresearch.org/social-trends/2025/01/16/where-men-and-women-turn-for-emotional-support-and-social-connection/
+- 40 - 60 hours was one study's rough estimate of shared time in the first six weeks for an acquaintance to become a casual friend. Source: https://journals.sagepub.com/doi/10.1177/0265407518761225
+- 51% of Americans say they have an activity friend, meaning someone they participate in sports, hobbies, or community service with. Source: https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/
+
 ## How It Works
 
-1. Tell Sammy what you want more of, such as friendship, confidence, healthier habits, new skills, happiness, or a better reason to leave the house.
-2. Get local activities and events that match your interests, location, and comfort level.
-3. Save a plan, add it to your calendar, get reminders, and check in afterward.
+1. Find a recurring, beginner-friendly activity that fits your interests, comfort level, and location.
+2. Learn what to bring, when to arrive, and whether it works well for first-timers going solo.
+3. Check in afterward, find the next occurrence, and keep showing up so new connections have time to grow.
 
 ## Key Links
 

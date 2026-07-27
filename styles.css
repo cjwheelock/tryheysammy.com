@@ -251,6 +251,15 @@ h1 {
   line-height: 0.96;
 }
 
+.hero-headline-line {
+  display: block;
+  text-wrap: balance;
+}
+
+.hero-headline-line + .hero-headline-line {
+  margin-top: 0.14em;
+}
+
 .hero-copy p {
   max-width: 590px;
   margin-top: 24px;
@@ -353,6 +362,8 @@ h1 {
 }
 
 .stat-band article {
+  display: flex;
+  flex-direction: column;
   padding: 32px;
   border-radius: 27px;
 }
@@ -379,10 +390,24 @@ h1 {
 
 .stat-band small {
   display: block;
-  margin-top: 18px;
+  margin-top: auto;
+  padding-top: 18px;
   color: var(--cyan);
   font-size: 12px;
   line-height: 1.4;
+}
+
+.stat-band small a {
+  text-decoration: underline;
+  text-decoration-color: rgba(40, 215, 204, 0.42);
+  text-underline-offset: 0.22em;
+  transition: color 240ms ease, text-decoration-color 240ms ease;
+}
+
+.stat-band small a:hover,
+.stat-band small a:focus-visible {
+  color: #ffffff;
+  text-decoration-color: currentColor;
 }
 
 .home-mission-teaser {
@@ -416,6 +441,11 @@ h1 {
 .reviews-section,
 .final-cta {
   padding-block: clamp(64px, 7vw, 104px);
+}
+
+#how,
+#reviews {
+  scroll-margin-top: 112px;
 }
 
 .editorial-block {
@@ -925,13 +955,17 @@ footer {
     padding-top: 18px;
   }
 
+  #how,
+  #reviews {
+    scroll-margin-top: 128px;
+  }
+
   .hero-copy h1 {
     font-size: clamp(24px, 8.1vw, 42px);
   }
 
   .hero-headline-line {
-    display: block;
-    white-space: nowrap;
+    white-space: normal;
   }
 
   .hero-actions {
