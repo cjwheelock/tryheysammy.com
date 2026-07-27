@@ -2,152 +2,194 @@
 
 New city guide by Hey Sammy | Published July 24, 2026 | Updated July 26, 2026
 
+Canonical: https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/
+
 ![A newcomer being welcomed by two regulars at a neighborhood run club](https://tryheysammy.com/assets/blog/making-friends-in-a-new-city-hero.jpg)
 
-To make friends in a new city, try two recurring activities, attend at the same time each week, start one small conversation per visit, and make one specific low-pressure invitation. Treat those numbers as a 30-day experiment rather than a formula. The aim is repeat contact: a reliable weekly rhythm where unfamiliar faces can become familiar and closeness has room to grow.
+Spend your first month building a social week you can repeat. Choose one weekly activity with returning members, add one low-friction neighborhood routine, go at the same time, and learn names. Around the third visit, invite someone only when a conversation has carried forward warmly. These steps create repeated contact and give a promising connection room to grow.
 
-> Your first goal is a repeatable social week: two places, a few familiar faces, and one plan already on next week’s calendar.
+> Make your city feel smaller: one weekly activity, one neighborhood routine, and one warm introduction.
 
 ## In this guide
 
-- Where to find recurring local groups
-- How to become a familiar face
-- How to turn contact into a plan
-- How to build a second-month rhythm
-- What to change when progress feels slow
+- [What a useful first month should accomplish](#what-should-your-first-30-days-accomplish)
+- [How to build a three-anchor social week](#what-is-a-three-anchor-social-week)
+- [Where to find recurring groups and verify the details](#where-can-you-find-recurring-local-groups)
+- [What to do on your first three visits](#what-should-you-do-on-your-first-three-visits)
+- [How to turn local knowledge into a plan](#how-do-you-turn-local-knowledge-into-a-plan)
+- [When to keep, switch, or leave a group](#when-should-you-keep-switch-or-leave)
 
-## What matters most in a new city?
+## What should your first 30 days accomplish?
 
-- **Choose depth over a packed calendar.** Return to two promising places instead of sampling ten unrelated events.
-- **Use the move as context.** Saying you are new gives people an easy way to offer advice and include you.
-- **Turn good conversations into dates.** Name a time and place before the moment disappears into “sometime.”
-- **Measure familiarity first.** Names, follow-up questions, and expected return visits are meaningful first-month progress.
+A close friendship may take longer than a month. Your first-month job is to create the conditions that make a second and third meeting likely.
 
-## What should you do during your first 30 days?
+By day 30, aim to have:
 
-This is the Hey Sammy 30-day experiment. The targets are planning markers, not research-backed thresholds. Change them to fit your energy and schedule while preserving the main ingredients: repeated places, small conversations, a clear invitation, and a return date.
+- one recurring group you can attend without renegotiating your week;
+- one neighborhood place where staff or regulars are beginning to recognize you;
+- three local names you remember;
+- one conversation that continued across visits;
+- one specific invitation made or accepted; and
+- next month’s return dates already on your calendar.
 
-| Week | Main job | Concrete target |
+These are Hey Sammy planning markers drawn from editorial judgment rather than research thresholds. A quieter month can still be productive if you found one room worth returning to.
+
+## What is a three-anchor social week?
+
+Build three different routes into local life. Each one solves a different part of the move.
+
+| Anchor | What it does | A strong first action |
 |---|---|---|
-| Days 1 to 7 | Find your rooms | Choose two recurring, participatory activities |
-| Days 8 to 14 | Become recognizable | Return at the same times and learn three names |
-| Days 15 to 21 | Create continuity | Follow up with two people and make one small invitation |
-| Days 22 to 30 | Build a rhythm | Keep the better group and schedule the next month |
+| **Weekly activity** | Puts you beside returning people during a shared activity | Audition up to two options once, then save three dates for the stronger one |
+| **Neighborhood routine** | Makes your immediate area familiar with very little planning | Use the same café, dog park, library, market, gym, or walking route at a consistent time |
+| **Warm introduction** | Connects your old network to your new city | Ask a coworker, neighbor, alumni contact, or friend for one specific local introduction |
 
-A move creates dozens of urgent tasks. Friendship can stay vague while boxes, utilities, and work take the calendar. Give it appointments. Two dependable social anchors are more useful than a long list of places you might visit once.
+The weekly activity is designed to supply repeated participation. The neighborhood routine supplies lighter familiarity and local knowledge. The introduction offers a warm starting point.
 
-## Days 1 to 7: How do you find the right places?
+Use this request when asking for an introduction:
 
-Pick two groups that meet weekly and give people something to do together. Good candidates include run clubs, volunteer crews, recreational leagues, dance classes, climbing meetups, pottery courses, board game nights, language exchanges, and discussion-based book clubs. Favor a location that is easy enough to repeat from home or work on a tired weeknight. Confirm the current schedule and newcomer instructions on the official organizer page.
+> “I just moved to Portland and I’m looking for a weekly climbing or volunteer group near the east side. Is there anyone local you would feel comfortable introducing me to?”
 
-Search in this order:
+Specific requests are easier to act on than “Do you know anyone here?”
 
-1. **Official local calendars:** parks and recreation departments, libraries, and community centers.
-2. **Recurring service:** volunteer portals with real shifts, training details, and a named organization.
-3. **Warm introductions:** alumni groups, coworkers, neighbors, and friends who know someone nearby.
-4. **Organizer calendars:** studios, leagues, clubs, faith communities, and independent venues with multiple future dates.
-5. **Discovery tools:** local activity apps and group platforms, followed by verification on the official source.
+## What should you do each week?
 
-Score each option on five practical questions:
+| Time | Main job | Put this on the calendar |
+|---|---|---|
+| **Days 1 to 3** | Define your realistic social radius and available time | Two weekly windows you can protect |
+| **Days 4 to 7** | Audition up to two options | One trial visit for each option |
+| **Days 8 to 14** | Choose the stronger activity and learn names | Its next three dates at the same time |
+| **Days 15 to 21** | Continue one conversation; invite when the warmth is mutual | Coffee, a walk, food after class, or the next session together |
+| **Days 22 to 30** | Keep the chosen room or replace it if the fit is weak | Four more dates for the room that works |
 
-- **Repetition:** Will many of the same people return?
-- **Participation:** Will you do something with people?
-- **Conversation:** Are there natural pauses or prompts for talking?
-- **Solo-friendliness:** Can a newcomer arrive without a partner?
-- **Continuity:** Can you afford the travel, cost, and time every week?
+Start with your actual calendar. Write down two windows that survive work, errands, caregiving, and sleep. Search for activities that fit those windows. A fascinating group across town on your busiest evening has weak continuity.
 
-Choose one activity you already enjoy and one you are curious about. Add the first three dates for each to your calendar. Our guide to [activities with strong social design](https://tryheysammy.com/blog/the-best-activities-for-making-friends/) can help you compare formats.
+Use the tired-Tuesday test: could you make this trip after an ordinary workday when your motivation is average? If the honest answer is no, choose something closer, earlier, cheaper, or easier to book.
 
-## Where can you meet people beyond organized groups?
+## Where can you find recurring local groups?
 
-Start with coworkers, neighbors, alumni, friends of friends, and people you know lightly online who live nearby. Tell three trusted people that you moved and would appreciate an introduction. Make the request easy to act on: “I just moved to Portland and I’m looking for a weekly climbing group. Do you know anyone I should ask?”
+Use different sources for different needs, then verify the final details with the organizer.
 
-Create a neighborhood routine too. Use the same coffee shop, dog park, farmers market, gym session, library branch, or coworking day at a consistent time. These places may produce acquaintances before friends, which still matters. Gillian Sandstrom and Elizabeth Dunn found that days with more weak-tie interactions were associated with greater happiness and belonging. The research shows an association, so treat small chats as worthwhile contact rather than a guarantee. Read the [original weak-ties study](https://journals.sagepub.com/doi/10.1177/0146167214529799).
+- **Parks and recreation departments:** leagues, classes, open play, workshops, and community centers.
+- **Library calendars:** book discussions, craft groups, language practice, lectures with discussion, and neighborhood programs.
+- **Volunteer portals:** real shifts, orientation requirements, locations, and signup steps.
+- **Studios and clubs:** dance, pottery, climbing, martial arts, running, fitness, photography, and games.
+- **Alumni, coworker, and neighborhood networks:** warm introductions and groups that may organize through private channels.
+- **Activity and group platforms:** useful for discovery when the listing leads to a current organizer page or reliable host.
 
-If you first know someone online, meet in a public place, keep control of your transportation, tell a trusted person where you are going when appropriate, and avoid sharing your home address until trust develops.
+Search for actual schedules. Useful searches include:
 
-## Days 8 to 14: How do you become a familiar face?
+- “[neighborhood] beginner pottery weekly”
+- “[city] parks adult recreation league”
+- “[city] recurring volunteer shifts”
+- “[neighborhood] run club Instagram”
+- “[city] library calendar book club”
+- “[city] beginner dance social weekly”
 
-Return to the same sessions. Arrive ten minutes early and stay ten minutes after when the setting feels comfortable. Useful conversations often happen while people fill water bottles, put away equipment, or walk toward the parking lot.
+Before you go, confirm:
 
-- “Hey, I’m Maya. I moved here two weeks ago. Is this your usual Wednesday group?”
-- “I’m new to the city and trying to pick one weekly thing. What keeps you coming back?”
-- “Is there another local group people here tend to like?”
-- “I’m still learning the neighborhood. Where do people go after this?”
+- the next date and start time;
+- the exact location and arrival instructions;
+- whether booking, membership, equipment, or payment is required;
+- whether solo newcomers are common;
+- what to bring;
+- whether the same session appears again on the calendar; and
+- the best official source for last-minute changes.
 
-Learn one name at each visit and offer yours again next time. Ask a follow-up question about something they mentioned. Recognition makes later conversations feel less like cold starts.
+Our guide to [activities with strong friendship potential](https://tryheysammy.com/blog/the-best-activities-for-making-friends/) can help you compare formats.
 
-If you replay the conversation afterward, remember that your estimate may be unusually critical. In studies involving strangers, first-year dorm mates, and workshop participants, people tended to underestimate how much their conversation partners liked them. The research does not reveal what any one person thinks. It does give you a reason to judge the interaction by observable behavior, such as whether they continue talking or greet you next time. See the [original liking-gap research](https://journals.sagepub.com/doi/10.1177/0956797618783714).
+## How do you choose an activity worth repeating?
 
-## How long does making friends in a new city take?
+Audition no more than two options during the first week. A promising choice has some returning members, shared participation, a natural window for conversation, and a clear path for newcomers. The move adds three filters: the trip must be repeatable, the listed schedule must be reliable, and the organizer must give you enough information to arrive prepared.
 
-Usually longer than a few good conversations. In research that included adults who had recently moved, University of Kansas researcher Jeffrey Hall found that accumulated time was associated with friendship closeness. The recent-mover study relied on retrospective estimates and found that chosen leisure time related differently to closeness than time spent together at work or school. A separate student sample linked some forms of everyday talk with changes in closeness. The estimates describe those samples rather than a schedule every friendship follows. See the [original friendship-time research](https://journals.sagepub.com/doi/10.1177/0265407518761225).
+Big-city readers should narrow the search to one or two neighborhoods. Smaller-city readers may need a wider category mix, including libraries, community centers, faith communities, service organizations, adult education, and local sports. Favor the option you can reach on an ordinary week and save its next three dates.
 
-After a month, success may look like someone remembering your name, a group chat notification, and a person who expects to see you Thursday. Those are real signs of progress.
+Use the [adult friendship activity selector](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/#2-how-do-you-choose-a-repeatable-room) for the full recurrence, participation, conversation, solo-arrival, continuity, and access checklist.
 
-## Days 15 to 21: How do you turn contact into a plan?
+## What should you do on your first three visits?
 
-As a Hey Sammy rule of thumb, make a specific invitation after two friendly conversations, sooner when the opening is obvious. Nearby and short is easiest.
+### Visit one: learn the room and one local detail
 
-- “I’m getting coffee next door after class. Want to join for twenty minutes?”
-- “I’ll be back next Tuesday. Want to meet ten minutes early?”
-- “You mentioned the Saturday market. Want to walk through it around ten?”
-- “I’m still exploring lunch spots near work. Want to try that taco place Thursday?”
+Arrive early enough to find the host without interrupting the activity. Tell them you are new and ask for the one detail that makes participation easier.
 
-If you exchange numbers, a next-day message is a useful rule of thumb: “Good talking at the run club. I’m planning to be there next Wednesday too.” Use the [six-step plan for making friends as an adult](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/) for the full progression. One declined invitation tells you little. Repeated declines without an alternative are a cue to stay friendly and invest in people who reciprocate.
+> “Hi, I’m Maya. I just moved here. Is there anything a first-timer should know?”
 
-## What if going alone feels awkward?
+Learn one person’s name, then ask one easy local question: “Do people here usually go anywhere after class?” or “Is there another neighborhood group you like?” Before leaving, save the next session. If the activity has a defined ending, stay through it. For an open-format event, set a reasonable time floor and leave once you have given the room a fair look.
 
-Confirm the address, arrival time, booking instructions, and what to bring. Save one opener in your phone. Give yourself a modest assignment: stay for 30 minutes, speak to the organizer, and learn one name.
+### Visit two: prove continuity
 
-Message the organizer beforehand if uncertainty is keeping you home: “Hi, I’m new to the city and planning to come alone on Thursday. Is that common, and is there anything a first-timer should know?” Keep our [step-by-step first-timer script](https://tryheysammy.com/blog/the-first-timer-script/) open for the arrival itself.
+Return to the same session. Use the name you learned and continue the local thread from last time.
 
-## What if you work from home?
+> “Good to see you again. You mentioned the Saturday market. Did you end up going?”
 
-Remote work removes the repeated contact that an office can provide, so put one social anchor directly beside the workweek. Choose a Tuesday evening class, a Wednesday coworking block, or a Saturday volunteer shift that repeats. Protect it from the temptation to move it every time work runs late.
+Offer your own name again if needed. Say when you expect to return. This removes the pressure to manufacture a long conversation.
 
-Use professional contact carefully. A coworker who lives nearby may welcome lunch or a work session, but do not make work your only route. A separate neighborhood or activity-based routine gives your new city another chance to become familiar. Our guide to [building real-world rituals around remote work](https://tryheysammy.com/blog/remote-work-needs-real-world-rituals/) offers a practical starting point.
+### Visit three: suggest an adjacent local plan
 
-## Days 22 to 30: How do you build a social rhythm?
+If one person has been warm and responsive across visits, suggest a short plan connected to the activity or their recommendation.
 
-Review the month with evidence. Which room had returning faces? Where did conversation happen naturally? Which schedule can you sustain? Keep the stronger activity for another month. Replace the weaker one if you disliked it, the membership changed constantly, or solo newcomers stayed stranded.
+> “I’m grabbing coffee next door after this. Want to come for twenty minutes?”
 
-Then make one bridge into ordinary life. Suggest tacos after the game, a weekend walk, or a shared practice session. Invite two or three people if a one-to-one invitation feels intense. Clear plans include a time, place, activity, and an easy way to decline.
+The three-visit sequence is an editorial framework. Some invitations happen sooner. Some rooms need more time. Safety concerns, disrespect, or misleading logistics are reasons to leave immediately.
 
-The U.S. Surgeon General’s social connection advisory recommends participating in social and community groups and investing time in relationships. Read the [federal social connection resources](https://www.hhs.gov/surgeongeneral/reports-and-publications/connection/index.html).
+## How do you turn local knowledge into a plan?
 
-Keep one existing relationship active during the move too. A scheduled call or visit with an old friend can give the transition some continuity while you build local ties. Your old and new relationships can support different parts of your life.
+Use the move as a natural reason to ask for a small nearby plan: “You mentioned the Saturday market. Want to walk through it around ten?” or “I’m still learning the neighborhood. Want to try that café Thursday at 6?” If you exchange contact information, send a short message while the context is fresh and name your return date.
 
-## What should you avoid during the first month?
+The [six-step guide to making friends as an adult](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/) covers invitation structure, follow-up, and observable reciprocity in detail.
 
-- **Collecting one-off events.** A busy calendar can still produce no repeated contact.
-- **Waiting for instant chemistry.** Many good friendships begin as ordinary, easy conversations.
-- **Joining too many groups.** Scattered attendance makes it hard for anyone to learn your face.
-- **Keeping every invitation vague.** “Coffee Saturday at 10?” gives someone a real choice.
-- **Reading every slow reply as rejection.** Look for reciprocity across several interactions.
-- **Staying somewhere unsafe or disrespectful.** Repetition is useful only in a basically welcoming room.
+## How long does it take to make friends after moving?
 
-## What if the first month feels slow?
+There is no dependable countdown for one relationship. In Jeffrey Hall’s retrospective study of 355 adults who had recently relocated, hours together predicted closeness more strongly in relationships people chose than in work or school relationships. Within the relocation sample, a larger share of time spent hanging out was associated with greater closeness, while a larger share spent together at work or school was associated with less.
 
-Keep the pieces that are producing recognition and change one weak variable at a time. Try a smaller session, a closer location, or an activity with partner rotation. Ask one person you already know for a local introduction. A month is long enough to test a routine, while most new relationships still need more shared time.
+The sample omitted relationships that had already failed, and adults estimated past hours. The paper’s hour counts cannot set a personal deadline. Protect chosen leisure time together and skip the stopwatch. Read the [original friendship-time study](https://journals.sagepub.com/doi/10.1177/0265407518761225).
 
-Use a concrete review: Where did someone remember me? Which place made conversation easiest? Who responded warmly to a follow-up? What can I attend four more times? Those answers are more useful than asking if the city already feels like home.
+Lighter local contact matters during the transition too. Gillian Sandstrom and Elizabeth Dunn linked more daily weak-tie interactions with greater happiness and belonging. Friendship formation was outside the studies’ scope. Read the [original weak-ties research](https://journals.sagepub.com/doi/10.1177/0146167214529799).
+
+## How should you adapt the plan?
+
+| Situation | Useful adjustment |
+|---|---|
+| **You work from home** | Put one anchor directly after work or use a recurring coworking day. Keep a separate activity-based route into the city. |
+| **You moved alone** | Tell an existing friend where you are going, keep control of transportation, and favor hosted or structured first visits. |
+| **You moved with a partner** | Keep one independent activity so both people can build local identity and contacts. |
+| **You have limited social energy** | Choose one small structured room, set one name as the goal, and skip large unstructured mixers. |
+| **You do not drink** | Search for morning, activity-first, volunteer, library, fitness, craft, or game-based groups. |
+| **Your schedule changes weekly** | Use open play, recurring volunteer shifts, studio schedules, or groups with several equivalent sessions. |
+
+Remote work can remove some of the repeated contact an office provides. Our guide to [building real-world rituals around remote work](https://tryheysammy.com/blog/remote-work-needs-real-world-rituals/) offers a fuller plan.
+
+If going alone is the main barrier, use the [first-timer arrival script](https://tryheysammy.com/blog/the-first-timer-script/) to plan the minutes before and after you walk in.
+
+## When should you keep, switch, or leave?
+
+Review each room after three visits.
+
+- **Keep it:** the schedule is reliable, some people repeat, conversation has an opening, and you can imagine returning next month.
+- **Switch one variable:** the activity is promising but the time slot, group size, location, or level makes connection difficult.
+- **Replace it:** the crowd constantly rotates, the format blocks interaction, the commute drains you, or there is no practical newcomer path.
+- **Leave now:** the setting feels unsafe, disrespectful, coercive, or materially different from what was advertised.
+
+If the first month feels slow, change one move-specific constraint at a time. Shorten the trip, use a better-verified organizer, switch to a session with a stable roster, or choose a room whose beginning and ending make conversation easier. Keep the pieces that already produce recognition.
+
+## What counts as progress after 30 days?
+
+Look for evidence that the city is beginning to recognize you:
+
+- someone greets you by name;
+- a conversation resumes from the previous week;
+- a host explains an inside detail or adds you to a group chat;
+- someone asks if you will be back;
+- an invitation is accepted or rescheduled;
+- you know where to go next Tuesday without searching again; and
+- one neighborhood place feels less anonymous.
+
+Keep one established long-distance relationship active while local ties grow. A scheduled call can add continuity to the move, and old friends may know people nearby. Local progress and existing friendship can support each other.
 
 ## How Hey Sammy built this guide
 
-Hey Sammy is an Organization that helps adults find recurring local activities where they can participate and return. This guide combines primary research with an editorial framework based on recurrence, participation, conversation, solo-friendliness, continuity, and realistic access. The 30-day targets are practical planning judgments, and the linked studies are described with their limits.
+Hey Sammy reviewed the current search results for this question and primary research on friendship time and weak ties. We applied six editorial criteria to the activity advice: recurrence, participation, conversation, solo-friendliness, continuity, and realistic access. The weekly activity, neighborhood routine, warm introduction, and numeric targets are Hey Sammy planning tools. They are designed to make the first month actionable and do not guarantee friendship on a schedule.
 
-## Your 30-day checklist
-
-- Choose two recurring, participatory groups.
-- Add three dates for each group to your calendar.
-- Create one neighborhood routine at a consistent time.
-- Tell three people you would welcome a local introduction.
-- Learn at least three names.
-- Send two short follow-up messages.
-- Make one specific invitation.
-- Keep the best weekly activity for month two.
-
-[Find a weekly plan near you with Hey Sammy](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631), add the next session to your calendar, and start becoming a regular in your new city.
+[Find a weekly plan near you with Hey Sammy](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631), put the next session on your calendar, and start becoming a regular in your new city.
 
 Related reading: [why familiar faces make conversation easier](https://tryheysammy.com/blog/why-familiar-faces-become-friends/).
