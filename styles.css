@@ -905,7 +905,7 @@ footer {
     grid-column: 1 / -1;
     grid-row: 2;
     display: grid;
-    grid-template-columns: 1.25fr repeat(3, minmax(0, 1fr));
+    grid-template-columns: 0.8fr 1.4fr repeat(2, minmax(0, 1fr)) 0.8fr;
     gap: 0;
     width: 100%;
     padding: 4px;
@@ -2155,6 +2155,18 @@ footer {
 
 .about-2-page .founder-grid {
   align-items: start;
+}
+
+@media (min-width: 1041px) {
+  .about-2-page .founder-grid {
+    display: flow-root;
+  }
+
+  .about-2-page .founder-photo {
+    float: left;
+    width: 44%;
+    margin: 0 clamp(48px, 8vw, 116px) 32px 0;
+  }
 }
 
 .about-2-page .evidence-strip p,
