@@ -1,0 +1,12 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "skills": [
+    {
+      "name": "hey-sammy",
+      "type": "skill-md",
+      "description": "Discover Hey Sammy's public product information, content, and machine-readable resources.",
+      "url": "https://tryheysammy.com/.well-known/agent-skills/hey-sammy/SKILL.md",
+      "digest": "sha256:87f54bcac5faec151aaa2a67f62c4ae5622688e5ea98fa1a6b38f105b68ec2e3"
+    }
+  ]
+}

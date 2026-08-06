@@ -1,10 +1,19 @@
 # Why Hey Sammy Exists
 
-Hey Sammy exists because a good life needs somewhere to go—and people who notice when you come back.
+Hey Sammy exists because a good life needs somewhere to go—and people who notice when you come back. We are trying to reverse a decades-long decline in showing up.
 
 ## The Problem
 
 Americans are spending less time socializing, young adults are spending dramatically less time with friends in person, and many people report too few close relationships. Chronic social disconnection is associated with meaningful risks to physical health, mental health, and longevity.
+
+Six long-run signals help tell that story:
+
+- The share of Americans who spend a social evening with neighbors several times a month or more fell from 44% in 1974 to 27% in 2024 in the General Social Survey. Post-2018 values should be read cautiously because collection shifted to mixed mode.
+- Membership across 32 traditional chapter-based associations peaked in the early 1960s and was nearly half as high by 1997, based on Robert Putnam's *Bowling Alone* summary. The chart is a schematic endpoint comparison, not an annual series.
+- The share of leisure time U.S. adults ages 19–65 spent with other people fell from about 75% in 1965 to 56% in 2018.
+- From 2003 to 2023, employer-establishment counts fell 49% for bookstores, 34% for bowling centers, 23% for civic and social organizations, and 15% for drinking places. County Business Patterns snapshots should be read as directional trends.
+- The share of Americans who said they had a regular local place fell from 67% in 2019 to 56% in 2021 and 54% in 2025.
+- Average primary-activity time spent socializing and communicating fell from about 47 minutes per day in 2003 to 35 minutes in 2025. There is no annual 2020 estimate.
 
 ## The Friendship Mechanism
 
@@ -34,5 +43,11 @@ Ultimately, Hey Sammy is my attempt to give other people the kinds of opportunit
 - Pew Research Center, What does friendship look like in America?: https://www.pewresearch.org/short-reads/2023/10/12/what-does-friendship-look-like-in-america/
 - Survey Center on American Life, The State of American Friendship: https://www.americansurveycenter.org/research/the-state-of-american-friendship-change-challenges-and-loss/
 - Adult friendship and wellbeing: a systematic review: https://pmc.ncbi.nlm.nih.gov/articles/PMC9902704/
+- NORC, General Social Survey cumulative data and social-evenings-with-neighbors measure: https://gss.norc.org/get-the-data/stata.html and https://sda.berkeley.edu/sdaweb/docs/gss24rel3/DOC/hcbk0040.htm
+- Robert D. Putnam, Bowling Alone: America's Declining Social Capital: https://politics.media.mit.edu/papers/Putnam_SocialCapital.pdf
+- Max Planck Institute for Demographic Research, Understanding the Growth of Solitary Leisure in the U.S., 1965–2018: https://www.demogr.mpg.de/papers/working/wp-2023-025.pdf
+- U.S. Census Bureau, 2003 and 2023 County Business Patterns: https://www.census.gov/data/datasets/2003/econ/cbp/2003-cbp.html and https://www.census.gov/data/datasets/2023/econ/cbp/2023-cbp.html
+- Survey Center on American Life, regular-local-place findings for 2019, 2021, and 2025: https://www.americansurveycenter.org/research/hopes-and-challenges-for-community-and-civic-life-perspectives-from-the-nation-and-indiana/ and https://www.americansurveycenter.org/research/public-places-and-commercial-spaces-how-neighborhood-amenities-foster-trust-and-connection-in-american-communities/ and https://www.americansurveycenter.org/research/a-cultural-crossroads-americas-uncertain-future-amidst-enduring-discontent-and-rising-disconnection/
+- U.S. Bureau of Labor Statistics, American Time Use Survey series TUU10101AA01013951: https://api.bls.gov/publicAPI/v2/timeseries/data/TUU10101AA01013951
 
-Research last reviewed July 9, 2026.
+Research last reviewed August 6, 2026.

@@ -1,0 +1,40 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://tryheysammy.com/api/index.json",
+      "service-desc": [
+        {
+          "href": "https://tryheysammy.com/openapi.json",
+          "type": "application/vnd.oai.openapi+json;version=3.1"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://tryheysammy.com/docs/api.md",
+          "type": "text/markdown"
+        }
+      ],
+      "status": [
+        {
+          "href": "https://tryheysammy.com/api/health.json",
+          "type": "application/json"
+        }
+      ]
+    },
+    {
+      "anchor": "https://tryheysammy.com/api/mcp",
+      "service-desc": [
+        {
+          "href": "https://tryheysammy.com/.well-known/mcp/server-card.json",
+          "type": "application/json"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://tryheysammy.com/docs/api.md",
+          "type": "text/markdown"
+        }
+      ]
+    }
+  ]
+}

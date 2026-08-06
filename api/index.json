@@ -1,0 +1,9 @@
+{
+  "name": "Hey Sammy Public Discovery API",
+  "version": "1.0.0",
+  "description": "Public, read-only discovery metadata for the Hey Sammy website.",
+  "authentication": "none",
+  "documentation": "https://tryheysammy.com/docs/api.md",
+  "openapi": "https://tryheysammy.com/openapi.json",
+  "health": "https://tryheysammy.com/api/health.json"
+}

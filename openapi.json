@@ -1,0 +1,107 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Hey Sammy Public Discovery API",
+    "version": "1.0.0",
+    "description": "Public, read-only metadata for discovering Hey Sammy resources. No authentication is required."
+  },
+  "servers": [
+    {
+      "url": "https://tryheysammy.com"
+    }
+  ],
+  "paths": {
+    "/api/index.json": {
+      "get": {
+        "operationId": "getDiscoveryIndex",
+        "summary": "Get the public discovery index",
+        "responses": {
+          "200": {
+            "description": "Discovery metadata",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/DiscoveryIndex"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/health.json": {
+      "get": {
+        "operationId": "getHealth",
+        "summary": "Get public discovery API health",
+        "responses": {
+          "200": {
+            "description": "Service is available",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/Health"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/mcp": {
+      "post": {
+        "operationId": "callMcp",
+        "summary": "Call the public, read-only MCP server",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "additionalProperties": true
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "JSON-RPC response",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "additionalProperties": true
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "DiscoveryIndex": {
+        "type": "object",
+        "required": ["name", "version", "authentication", "documentation", "openapi", "health"],
+        "properties": {
+          "name": { "type": "string" },
+          "version": { "type": "string" },
+          "description": { "type": "string" },
+          "authentication": { "type": "string", "const": "none" },
+          "documentation": { "type": "string", "format": "uri" },
+          "openapi": { "type": "string", "format": "uri" },
+          "health": { "type": "string", "format": "uri" }
+        }
+      },
+      "Health": {
+        "type": "object",
+        "required": ["status", "service", "version"],
+        "properties": {
+          "status": { "type": "string", "const": "ok" },
+          "service": { "type": "string" },
+          "version": { "type": "string" }
+        }
+      }
+    }
+  }
+}

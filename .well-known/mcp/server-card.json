@@ -1,0 +1,20 @@
+{
+  "serverInfo": {
+    "name": "hey-sammy-public-discovery",
+    "version": "1.0.0"
+  },
+  "transport": {
+    "type": "streamable-http",
+    "endpoint": "https://tryheysammy.com/api/mcp"
+  },
+  "capabilities": {
+    "tools": {
+      "listChanged": false
+    },
+    "resources": false,
+    "prompts": false
+  },
+  "authentication": {
+    "required": false
+  }
+}
