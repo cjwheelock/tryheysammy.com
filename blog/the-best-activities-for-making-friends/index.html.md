@@ -239,6 +239,8 @@ Choose one activity that fits your real Tuesday, Saturday, budget, body, and tra
 
 [Find a recurring activity near you with Hey Sammy](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631), choose a solo-friendly plan, and start becoming a regular.
 
+For the larger trend behind these formats, read our response to the [News & Observer on why a hobby you repeat can make adult friendship easier](https://tryheysammy.com/blog/the-best-friendship-app-is-a-hobby-you-repeat/).
+
 ## Sources
 
 - Hall, J. A. (2019). [How many hours does it take to make a friend?](https://journals.sagepub.com/doi/10.1177/0265407518761225) *Journal of Social and Personal Relationships*, 36(4), 1278 to 1296.

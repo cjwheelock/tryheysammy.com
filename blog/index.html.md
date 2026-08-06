@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [The Best Friendship App Might Be a Hobby You Repeat](https://tryheysammy.com/blog/the-best-friendship-app-is-a-hobby-you-repeat/index.html.md) - A response to the News & Observer on why shared hobbies lower the pressure of meeting people, and why repeat attendance matters most.
 - [15 Best Activities for Making Friends as an Adult, Ranked](https://tryheysammy.com/blog/the-best-activities-for-making-friends/index.html.md) - Compare 15 recurring social activities using a transparent framework for repetition, conversation, solo arrival, continuity, and realistic access. Updated July 31, 2026.
 - [How to Make Friends in a New City: Your First 30 Days](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/index.html.md) - A 30-day plan for finding recurring groups, meeting people, following up, and becoming a regular after a move.
 - [How to Make Friends as an Adult: A Repeatable 6-Step Plan](https://tryheysammy.com/blog/how-to-make-friends-as-an-adult/index.html.md) - A practical plan for meeting people through recurring activities, small conversations, invitations, and follow-up.
