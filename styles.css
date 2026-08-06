@@ -1802,6 +1802,12 @@ footer {
   line-height: 0.96;
 }
 
+.about-2-page .about-hero {
+  min-height: auto;
+  padding-top: clamp(64px, 8vw, 112px);
+  padding-bottom: clamp(32px, 4vw, 56px);
+}
+
 .about-2-page .about-deck {
   font-size: clamp(20px, 1.7vw, 24px);
   line-height: 1.55;
@@ -1831,6 +1837,16 @@ footer {
 .about-2-page .places-copy h3 {
   font-size: clamp(32px, 3.4vw, 48px);
   line-height: 1.04;
+}
+
+.about-2-page .third-space-copy h2 {
+  font-size: clamp(36px, 3.4vw, 48px);
+  letter-spacing: -0.025em;
+  white-space: nowrap;
+}
+
+.about-2-page .founder-grid {
+  align-items: start;
 }
 
 .about-2-page .evidence-strip p,
@@ -1871,7 +1887,12 @@ footer {
 }
 
 .about-2-page .places-layout {
-  margin-top: clamp(40px, 4vw, 56px);
+  margin-top: clamp(72px, 8vw, 112px);
+}
+
+.about-2-page .places-copy {
+  position: static;
+  top: auto;
 }
 
 .about-2-page .about-cta {
@@ -1894,6 +1915,10 @@ footer {
   .about-2-page .goals-heading h2,
   .about-2-page .about-cta h2 {
     font-size: clamp(40px, 11vw, 50px);
+  }
+
+  .about-2-page .third-space-copy h2 {
+    font-size: clamp(28px, 8vw, 32px);
   }
 }
 

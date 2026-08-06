@@ -14,13 +14,17 @@ Friendship is usually built through shared activity, repeated contact, familiar 
 
 Hey Sammy helps people find recurring, participatory activities; understand exactly how to attend; put a real plan on the calendar; and return until the activity and people become familiar. It is a bridge into existing communities, not a replacement for them.
 
-## What Success Looks Like
+## I Can Relate
 
-Downloads are a means. Regulars are the goal. Hey Sammy wants more people to make one recurring real-world commitment, feel more capable showing up alone, build skills and confidence alongside other people, and strengthen the local groups and third spaces already bringing people together.
+I took a year off during my junior year of college because I was pretty lost. During that time, a friend invited me to learn ballroom dance at a house on the east side of Tucson. The parents taught all the kids, and the kids invited their friends. I like saying yes to things, so I tried it on a whim—and ended up loving it. It was social, challenging, and musical, and I kept going back once or twice a month.
 
-## Founder Story
+After about a year, I saw that a ballroom dance studio in Tucson was hiring and thought, “Hey, why not get paid to learn and spend more time doing something I’m having fun with?” That led me to West Coast Swing, then to dance conventions in California, and eventually to San Francisco after I connected with the community here.
 
-The idea grew from the founder's own experience learning ballroom dance during a lost year away from college. Repeatedly showing up led to mentorship, friendships, West Coast Swing, inspiring communities, and eventually a move to San Francisco. The lesson behind Hey Sammy is simple: people help people who show up.
+Looking back, I put myself in a position to get lucky simply by showing up and saying yes. I said yes to coaching high school track and field, which eventually led to a friend asking me to try ballroom dancing. I said yes to an opportunity at a ballroom dance studio. And I said yes when I was offered the chance to learn West Coast Swing. Each yes opened the door to another.
+
+I’ve deeply felt the benefits of putting yourself out there—trying things, talking to people, and letting those small choices compound. If you’re positive, friendly, helpful, curious about the world and other people, and genuinely care about them, they’ll remember that.
+
+Ultimately, Hey Sammy is my attempt to give other people the kinds of opportunities I had. I want to help them take those first steps: try something, meet people through it, and keep going back long enough for those friendships to grow. My best-case outcome would be hearing stories from people who put themselves out there with a little inspiration from me and went on to radically transform their lives. Hearing that one day would be deeply fulfilling.
 
 ## Research Sources
 
