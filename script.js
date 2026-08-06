@@ -73,8 +73,12 @@ function renderStoryCharts() {
 
         const valueLabel = document.createElementNS(STORY_CHART_SVG_NAMESPACE, 'text');
         valueLabel.setAttribute('class', 'story-value-label');
-        valueLabel.setAttribute('x', (point.x + (isEnd ? -9 : 9)).toFixed(2));
-        valueLabel.setAttribute('y', Math.max(18, point.y - 13).toFixed(2));
+        const customDx = Number(series.dataset[`${key}Dx`]);
+        const customDy = Number(series.dataset[`${key}Dy`]);
+        const dx = Number.isFinite(customDx) ? customDx : isEnd ? -9 : 9;
+        const dy = Number.isFinite(customDy) ? customDy : -13;
+        valueLabel.setAttribute('x', (point.x + dx).toFixed(2));
+        valueLabel.setAttribute('y', Math.max(18, point.y + dy).toFixed(2));
         valueLabel.setAttribute('text-anchor', isEnd ? 'end' : 'start');
         valueLabel.setAttribute('aria-hidden', 'true');
         valueLabel.textContent = label;

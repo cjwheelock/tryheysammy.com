@@ -28,7 +28,7 @@
       content="We are trying to reverse a decades-long decline in showing up."
     />
     <meta name="twitter:image" content="https://tryheysammy.com/assets/founder-dancing.jpg" />
-    <link rel="stylesheet" href="../styles.css?v=20260806-about-data-story" />
+    <link rel="stylesheet" href="../styles.css?v=20260806-about-chart-polish" />
     <script type="application/ld+json">
       {
         "@context": "https://schema.org",
@@ -111,7 +111,6 @@
           aria-roledescription="carousel"
         >
           <div class="story-carousel-topline">
-            <span>The evidence</span>
             <span data-carousel-status>1 of 6</span>
             <span class="sr-only" data-carousel-announcement aria-live="polite"></span>
           </div>
@@ -125,7 +124,6 @@
                 aria-roledescription="slide"
                 aria-label="1 of 6: We see our neighbors less often"
               >
-                <p class="story-slide-kicker">Neighborhood life</p>
                 <h2>We see our neighbors less often.</h2>
                 <p class="story-slide-deck">
                   Adults spending a social evening with neighbors several times a month or more.
@@ -160,10 +158,11 @@
                     data-story-series
                     data-values="2018:30.8;2021:19.5;2022:27.5;2024:27.2"
                     data-label-end="27%"
+                    data-label-end-dx="18"
+                    data-label-end-dy="-25"
                   ></polyline>
                   <text class="story-axis-label" x="28" y="207">1974</text>
                   <text class="story-axis-label" x="432" y="207" text-anchor="end">2024</text>
-                  <text class="story-mode-label" x="421" y="44" text-anchor="end">mixed mode</text>
                 </svg>
                 <p class="story-source">
                   General Social Survey, weighted analysis. Post-2018 values shown cautiously.
@@ -180,8 +179,7 @@
                 aria-hidden="true"
                 inert
               >
-                <p class="story-slide-kicker">Bowling Alone</p>
-                <h2>Civic participation peaked—and then fell for decades.</h2>
+                <h2>Civic participation peaked, then fell for decades.</h2>
                 <p class="story-slide-deck">
                   Two published summary points across 32 traditional chapter-based associations.
                 </p>
@@ -208,9 +206,8 @@
                   ></line>
                   <circle class="story-point" cx="72" cy="38" r="6"></circle>
                   <circle class="story-point" cx="404" cy="144" r="6"></circle>
-                  <text class="story-value-label" x="81" y="25">Peak = 100</text>
-                  <text class="story-value-label" x="395" y="131" text-anchor="end">≈ half</text>
-                  <text class="story-mode-label" x="238" y="178" text-anchor="middle">schematic endpoints</text>
+                  <text class="story-value-label" x="81" y="25">Peak</text>
+                  <text class="story-value-label" x="421" y="116" text-anchor="end">About half</text>
                   <text class="story-axis-label" x="72" y="207">early 1960s</text>
                   <text class="story-axis-label" x="404" y="207" text-anchor="end">1997</text>
                 </svg>
@@ -229,7 +226,6 @@
                 aria-hidden="true"
                 inert
               >
-                <p class="story-slide-kicker">Time together</p>
                 <h2>Less of our leisure is social.</h2>
                 <p class="story-slide-deck">
                   Share of leisure minutes spent with others, U.S. adults ages 19–65.
@@ -259,6 +255,8 @@
                     data-values="1965:74.9;1975:71.9;1998:63.6;2003:62.5;2010:59.3;2018:55.9"
                     data-label-start="75%"
                     data-label-end="56%"
+                    data-label-end-dx="18"
+                    data-label-end-dy="-25"
                   ></polyline>
                   <text class="story-axis-label" x="28" y="207">1965</text>
                   <text class="story-axis-label" x="432" y="207" text-anchor="end">2018</text>
@@ -278,7 +276,6 @@
                 aria-hidden="true"
                 inert
               >
-                <p class="story-slide-kicker">Places to gather</p>
                 <h2>Some everyday gathering places are disappearing.</h2>
                 <p class="story-slide-deck">
                   U.S. employer establishments, indexed to 100 in 2003.
@@ -312,7 +309,7 @@
                 <div class="story-chart-legend" aria-hidden="true">
                   <span><i class="is-a"></i>Bookstores <strong>−49%</strong></span>
                   <span><i class="is-b"></i>Bowling <strong>−34%</strong></span>
-                  <span><i class="is-c"></i>Civic + social <strong>−23%</strong></span>
+                  <span><i class="is-c"></i>Civic and social <strong>−23%</strong></span>
                   <span><i class="is-d"></i>Bars <strong>−15%</strong></span>
                 </div>
                 <p class="story-source">
@@ -330,7 +327,6 @@
                 aria-hidden="true"
                 inert
               >
-                <p class="story-slide-kicker">A place to return to</p>
                 <h2>Fewer Americans have a regular local place.</h2>
                 <p class="story-slide-deck">
                   A coffee shop, bar, restaurant, park, or similar place they visit regularly.
@@ -380,7 +376,6 @@
                 aria-hidden="true"
                 inert
               >
-                <p class="story-slide-kicker">The daily consequence</p>
                 <h2>We spend about 12 fewer minutes a day socializing.</h2>
                 <p class="story-slide-deck">
                   Average daily primary-activity time socializing and communicating, ages 15+.
@@ -889,6 +884,6 @@
       </div>
     </footer>
 
-    <script src="../script.js?v=20260806-about-data-story"></script>
+    <script src="../script.js?v=20260806-about-chart-polish"></script>
   </body>
 </html>

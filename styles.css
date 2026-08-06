@@ -1157,7 +1157,7 @@ footer {
 .story-carousel-topline {
   display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: flex-end;
   gap: 20px;
   padding: 22px 26px 0;
   color: var(--cyan);
@@ -1169,7 +1169,10 @@ footer {
 }
 
 .story-carousel-topline [data-carousel-status] {
-  color: rgba(255, 250, 240, 0.56);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 760;
+  letter-spacing: 0.08em;
   font-variant-numeric: tabular-nums;
 }
 
@@ -1194,18 +1197,9 @@ footer {
   flex-direction: column;
 }
 
-.story-slide-kicker {
-  color: var(--cyan);
-  font-size: 11px;
-  line-height: 1.2;
-  font-weight: 760;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-}
-
 .story-slide h2 {
   max-width: 490px;
-  margin-top: 11px;
+  margin-top: 0;
   font-family: "Acme", "Fraunces", Georgia, serif;
   font-size: clamp(35px, 3.4vw, 48px);
   line-height: 0.98;
@@ -1334,6 +1328,35 @@ footer {
 .story-chart-legend strong {
   color: #fffaf0;
   font-variant-numeric: tabular-nums;
+}
+
+@media (min-width: 561px) {
+  .story-slide-places .story-slide-deck {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+
+  .story-slide-places .story-chart-legend {
+    gap: 10px 18px;
+  }
+
+  .story-slide-places .story-chart-legend span {
+    grid-template-columns: 11px minmax(0, 1fr) auto;
+    gap: 9px;
+    color: rgba(255, 250, 240, 0.86);
+    font-size: 14px;
+    line-height: 1.35;
+  }
+
+  .story-slide-places .story-chart-legend i {
+    width: 11px;
+    height: 11px;
+  }
+
+  .story-slide-places .story-chart-legend strong {
+    font-size: 15px;
+    font-weight: 800;
+  }
 }
 
 .story-source {
