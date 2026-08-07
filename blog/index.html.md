@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [How to Go to an Event Alone Without Feeling Awkward](https://tryheysammy.com/blog/the-first-timer-script/index.html.md) - A before, during, and after plan for arriving solo, starting conversations, handling quiet gaps, and deciding when to return. Updated August 7, 2026.
 - [The Best Friendship App Might Be a Hobby You Repeat](https://tryheysammy.com/blog/the-best-friendship-app-is-a-hobby-you-repeat/index.html.md) - A response to the News & Observer on why shared hobbies lower the pressure of meeting people, and why repeat attendance matters most.
 - [15 Best Activities for Making Friends as an Adult, Ranked](https://tryheysammy.com/blog/the-best-activities-for-making-friends/index.html.md) - Compare 15 recurring social activities using a transparent framework for repetition, conversation, solo arrival, continuity, and realistic access. Updated July 31, 2026.
 - [How to Make Friends in a New City: Your First 30 Days](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/index.html.md) - A 30-day plan for finding recurring groups, meeting people, following up, and becoming a regular after a move.
@@ -11,7 +12,6 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 - [If the Machines Do the Work, What Are People For?](https://tryheysammy.com/blog/what-are-people-for/index.html.md) - Essay on AGI, leisure, meaning, and why participation with real people matters.
 - [You Don't Get Lucky Sitting at Home](https://tryheysammy.com/blog/you-dont-get-lucky-sitting-at-home/index.html.md) - Founder note on trying things, showing up, and why action creates opportunity.
 - [Stop Waiting for an Epiphany](https://tryheysammy.com/blog/stop-waiting-for-an-epiphany/index.html.md) - Essay on why clarity comes from trying real things instead of waiting for a perfect life plan.
-- [The First-Timer Script](https://tryheysammy.com/blog/the-first-timer-script/index.html.md) - Essay with a practical script for walking into a new activity alone and starting one small interaction.
 - [Remote Work Needs Real-World Rituals](https://tryheysammy.com/blog/remote-work-needs-real-world-rituals/index.html.md) - Essay on why remote workers need recurring real-world rituals that pull life back out of the house.
 - [Being Bad at Something Is Good for You](https://tryheysammy.com/blog/being-bad-at-something-is-good-for-you/index.html.md) - Essay on why beginner courage and awkward first attempts make real-world connection easier.
 - [Why Men Need Things to Do Together](https://tryheysammy.com/blog/why-men-need-things-to-do-together/index.html.md) - Essay on why shared activities and recurring plans make friendship easier for men.
