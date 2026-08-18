@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [Loneliness Isn't a Male Problem. It's a Participation Problem](https://tryheysammy.com/blog/loneliness-is-a-participation-problem/index.html.md) - Reading note on Slate's *America's Loneliness Trap*, economic access, recurring activities, and why community is more than a social-skills assignment. Published August 18, 2026.
 - [How to Go to an Event Alone Without Feeling Awkward](https://tryheysammy.com/blog/the-first-timer-script/index.html.md) - A before, during, and after plan for arriving solo, starting conversations, handling quiet gaps, and deciding when to return. Updated August 7, 2026.
 - [The Best Friendship App Might Be a Hobby You Repeat](https://tryheysammy.com/blog/the-best-friendship-app-is-a-hobby-you-repeat/index.html.md) - A response to the News & Observer on why shared hobbies lower the pressure of meeting people, and why repeat attendance matters most.
 - [15 Best Activities for Making Friends as an Adult, Ranked](https://tryheysammy.com/blog/the-best-activities-for-making-friends/index.html.md) - Compare 15 recurring social activities using a transparent framework for repetition, conversation, solo arrival, continuity, and realistic access. Updated July 31, 2026.

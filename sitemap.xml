@@ -14,8 +14,14 @@
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-18</lastmod>
     <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tryheysammy.com/blog/loneliness-is-a-participation-problem/</loc>
+    <lastmod>2026-08-18</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
