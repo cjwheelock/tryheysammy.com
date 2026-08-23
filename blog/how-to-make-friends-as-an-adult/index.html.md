@@ -223,6 +223,6 @@ Hey Sammy reviewed the current search results for this question and primary stud
 
 [Find a recurring activity with Hey Sammy](https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631), save the next session, and give a promising room enough time to become familiar.
 
-Just moved? Use the [first 30 days plan for making friends in a new city](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/).
+Already have someone in mind? Use the [four-week plan for turning an acquaintance into a friend](https://tryheysammy.com/blog/how-to-turn-an-acquaintance-into-a-friend/). Just moved? Use the [first 30 days plan for making friends in a new city](https://tryheysammy.com/blog/how-to-make-friends-in-a-new-city/).
 
 Related reading: [why familiar faces make conversation easier](https://tryheysammy.com/blog/why-familiar-faces-become-friends/) and [how confidence grows through showing up](https://tryheysammy.com/blog/the-life-you-build-by-showing-up/).
