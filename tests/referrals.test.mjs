@@ -56,3 +56,15 @@ for(const nav of [{globalPrivacyControl:true},{doNotTrack:'1'}]) {
  assert.deepEqual(result.redirects,[config.destination]);
  });
 }
+
+test('all 35 word aliases preserve their numeric route tracking and fallback',()=>{
+ const aliases=Object.entries(config.aliases);
+ assert.equal(aliases.length,35);
+ assert.equal(new Set(aliases.map(([,code])=>code)).size,35);
+ for(const [slug,code] of aliases){
+  assert.match(slug,/^[a-z]+(?:-[a-z]+)*$/);
+  assert.ok(config.codes.includes(code));
+  assert.equal(readFileSync(new URL(`../${slug}/index.html`,import.meta.url),'utf8'),
+    readFileSync(new URL(`../${code}/index.html`,import.meta.url),'utf8'));
+ }
+});

@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<meta name="referrer" content="no-referrer">
+<meta http-equiv="refresh" content="2;url=https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631">
+<title>Hey Sammy</title>
+<script>window.referralConfig={"code":"497989","destination":"https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631","token":"phc_DaknnREBcUqrN7wFzpjCctoLn9Zh2EHJfLMfetUzK9nA"};
+(() => {
+  const { code, destination, token } = window.referralConfig;
+  let redirected = false;
+  const redirect = () => {
+    if (!redirected) {
+      redirected = true;
+      window.location.replace(destination);
+    }
+  };
+  // Never leave a visitor waiting for analytics, even when capture stalls.
+  setTimeout(redirect, 700);
+  try {
+    const hostname = window.location.hostname;
+    // Local verification must not inflate live creator traffic.
+    if (!['tryheysammy.com', 'www.tryheysammy.com'].includes(hostname)) {
+      redirect();
+      return;
+    }
+    if (navigator.globalPrivacyControl === true || navigator.doNotTrack === '1') {
+      redirect();
+      return;
+    }
+    // Reduce the user agent to broad categories; never send its raw value.
+    const ua = navigator.userAgent || '';
+    const os = /iPhone|iPad|iPod/i.test(ua) ? 'iOS'
+      : /Android/i.test(ua) ? 'Android' : /Windows/i.test(ua) ? 'Windows'
+      : /Macintosh/i.test(ua) ? 'macOS' : /Linux/i.test(ua) ? 'Linux' : 'Other';
+    const browser = /Edg(?:e|A|iOS)?\//i.test(ua) ? 'Edge'
+      : /Firefox|FxiOS/i.test(ua) ? 'Firefox' : /Chrome|CriOS/i.test(ua) ? 'Chrome'
+      : /Safari/i.test(ua) ? 'Safari' : 'Other';
+    const device = /iPad|Tablet/i.test(ua) || (/Android/i.test(ua) && !/Mobile/i.test(ua))
+      ? 'Tablet' : /Mobile|iPhone|iPod/i.test(ua) ? 'Mobile' : 'Desktop';
+    let referringSource = 'direct_or_unavailable';
+    try {
+      if (document.referrer) {
+        const host = new URL(document.referrer).hostname;
+        referringSource = ['tiktok.com', 'instagram.com', 'facebook.com', 'google.com', 'tryheysammy.com']
+          .find(domain => host === domain || host.endsWith('.' + domain)) || 'other';
+      }
+    } catch { referringSource = 'other'; }
+    const payload = {
+      api_key: token,
+      event: 'creator_referral_clicked',
+      distinct_id: crypto.randomUUID(),
+      properties: {
+        referral_code: code,
+        campaign: 'tiktok_creators_35',
+        source: 'tiktok',
+        destination,
+        $current_url: `https://tryheysammy.com/${code}`,
+        $process_person_profile: false,
+        $ip: null,
+        $geoip_disable: true,
+        browser_family: browser,
+        os_family: os,
+        device_type: device,
+        is_tiktok_browser: /TikTok|Bytedance|musical_ly/i.test(ua),
+        likely_bot: /bot|crawler|spider|Headless/i.test(ua),
+        referring_source: referringSource,
+        is_verification: new URLSearchParams(window.location.search).get('referral_check') === '1',
+      },
+    };
+    // Keepalive permits the request to finish after the timeout redirects.
+    Promise.resolve(fetch('https://us.i.posthog.com/i/v0/e/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+      keepalive: true,
+      credentials: 'omit',
+      referrerPolicy: 'no-referrer',
+    })).then(redirect, redirect);
+  } catch {
+    redirect();
+  }
+})();
+</script>
+</head><body><a href="https://apps.apple.com/us/app/hey-sammy-try-things-irl/id6766004631">App Store</a></body></html>
