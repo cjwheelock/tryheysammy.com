@@ -4,6 +4,7 @@ Essays from Hey Sammy about friendship, courage, third spaces, recurring activit
 
 ## Published Posts
 
+- [The Dinner Party Decline Is a Reason to Show Up Again](https://tryheysammy.com/blog/dinner-party-decline-and-showing-up/index.html.md) - What The Atlantic's new dinner-party reporting says about shared time, and how simple invitations and recurring local activities can help you show up again. Published October 4, 2026.
 - [How to Turn an Acquaintance Into a Friend](https://tryheysammy.com/blog/how-to-turn-an-acquaintance-into-a-friend/index.html.md) - A four-week plan with low-pressure invitations, follow-up scripts, and practical signs that the interest is mutual.
 - [Loneliness Isn't a Male Problem. It's a Participation Problem](https://tryheysammy.com/blog/loneliness-is-a-participation-problem/index.html.md) - Reading note on Slate's *America's Loneliness Trap*, economic access, recurring activities, and why community is more than a social-skills assignment. Published August 18, 2026.
 - [How to Go to an Event Alone Without Feeling Awkward](https://tryheysammy.com/blog/the-first-timer-script/index.html.md) - A before, during, and after plan for arriving solo, starting conversations, handling quiet gaps, and deciding when to return. Updated August 7, 2026.

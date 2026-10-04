@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/</loc>
-    <lastmod>2026-08-23</lastmod>
+    <lastmod>2026-10-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -113,5 +113,11 @@
     <lastmod>2026-06-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tryheysammy.com/blog/dinner-party-decline-and-showing-up/</loc>
+    <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
 </urlset>
