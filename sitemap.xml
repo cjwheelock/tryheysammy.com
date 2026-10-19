@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>https://tryheysammy.com/blog/</loc>
-    <lastmod>2026-10-04</lastmod>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -117,6 +117,12 @@
   <url>
     <loc>https://tryheysammy.com/blog/dinner-party-decline-and-showing-up/</loc>
     <lastmod>2026-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tryheysammy.com/blog/social-life-needs-somewhere-to-happen/</loc>
+    <lastmod>2026-10-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
